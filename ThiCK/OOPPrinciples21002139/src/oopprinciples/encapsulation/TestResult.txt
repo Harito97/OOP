@@ -1,0 +1,4 @@
+D:\CompilerAndInterpreter\Java\jdk-19\bin\java.exe "-javaagent:D:\TextEditorAndIDE\IntelliJ IDEA Community Edition 2022.3\lib\idea_rt.jar=63157:D:\TextEditorAndIDE\IntelliJ IDEA Community Edition 2022.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "D:\Projects\Java _ Study\ThiCK\OOPPrinciples21002139\out\production\OOPPrinciples21002139" oopprinciples.encapsulation.Test
+Hải
+
+Process finished with exit code 0

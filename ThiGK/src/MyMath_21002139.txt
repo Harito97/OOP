@@ -1,0 +1,4 @@
+e^2.2 * cos(3.3) = -8.9120
+Kiem tra bang ham thu vien Java:
+e^2.2 * cos(3.3) = -8.9120
+Process finished with exit code 0

@@ -1,0 +1,9 @@
+D:\CompilerAndInterpreter\Java\jdk-19\bin\java.exe "-javaagent:D:\TextEditorAndIDE\IntelliJ IDEA Community Edition 2022.3\lib\idea_rt.jar=63486:D:\TextEditorAndIDE\IntelliJ IDEA Community Edition 2022.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "D:\Projects\Java _ Study\ThiCK\out\production\ThiCK" com.vector.TestVectors
+3
+[9.0, 90.0, 7.0]
+90.7193474403338
+3
+[4.0, 50.0, 6.0]
+50.51732376126036
+
+Process finished with exit code 0
